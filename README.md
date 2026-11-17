@@ -72,9 +72,20 @@ Ele nasceu nas corridas de simulador (rFactor 2, iRacing, Assetto Corsa e outros
 ### Como instalar
 
 1. Baixe o **[Traduworld-Setup.exe](https://github.com/jialvarez1973/traduworld/releases/latest/download/Traduworld-Setup.exe)**.
-2. Abra o arquivo e siga as telas. A instalação leva de 15 a 40 minutos, porque baixa os modelos de inteligência artificial.
+2. Abra o arquivo e siga as telas (se o Windows mostrar um aviso, veja [É seguro?](#pt-seguro)). A instalação leva de 15 a 40 minutos, porque baixa os modelos de inteligência artificial.
 3. Antes de começar, o instalador cria um **ponto de restauração do Windows**. Assim dá para voltar o computador exatamente como estava.
 4. Abra o **TraduWorld** pela Área de Trabalho. O assistente guia o resto.
+
+<a id="pt-seguro"></a>
+
+### É seguro? (aviso do Windows na instalação)
+
+- O TraduWorld **não contém vírus** e **não rouba senhas**. Ele não lê as suas senhas, não acessa o seu navegador e não mexe nos seus arquivos pessoais.
+- Ele só mexe no que precisa para traduzir: o som do computador e as configurações de som do TeamSpeak e do Discord, sempre mostrando o antes e o depois e só com a sua autorização.
+- **Ao instalar, o Windows pode mostrar um aviso** como *"O Windows protegeu o computador"* ou *"Editor desconhecido"*. Isso acontece porque o instalador **não tem assinatura digital paga** (um certificado comprado da Microsoft ou de outras empresas). Como o TraduWorld é **gratuito**, não faz sentido gastar dinheiro com esse certificado.
+- Para continuar a instalação, clique em **"Mais informações"** e depois em **"Executar assim mesmo"**.
+- Na instalação, o Windows também pede permissão (**"Sim"**) para instalar as peças necessárias: o cabo de áudio virtual VB-CABLE, o Python e o Visual C++ da Microsoft.
+- Se quiser conferir por conta própria, envie o arquivo `Traduworld-Setup.exe` para **[virustotal.com](https://www.virustotal.com)**, que analisa com dezenas de antivírus ao mesmo tempo.
 
 ### Privacidade
 
@@ -149,9 +160,20 @@ It was born in sim racing (rFactor 2, iRacing, Assetto Corsa and others), where 
 ### How to install
 
 1. Download **[Traduworld-Setup.exe](https://github.com/jialvarez1973/traduworld/releases/latest/download/Traduworld-Setup.exe)**.
-2. Open the file and follow the screens. Installation takes 15 to 40 minutes, because it downloads the artificial intelligence models.
+2. Open the file and follow the screens (if Windows shows a warning, see [Is it safe?](#en-safe)). Installation takes 15 to 40 minutes, because it downloads the artificial intelligence models.
 3. Before starting, the installer creates a **Windows restore point**, so you can put your computer back exactly as it was.
 4. Open **TraduWorld** from the Desktop. The assistant guides you through the rest.
+
+<a id="en-safe"></a>
+
+### Is it safe? (Windows warning during installation)
+
+- TraduWorld **contains no viruses** and **does not steal passwords**. It does not read your passwords, does not access your browser and does not touch your personal files.
+- It only changes what it needs to translate: the computer's sound and the sound settings of TeamSpeak and Discord, always showing the before and after and only with your permission.
+- **When installing, Windows may show a warning** such as *"Windows protected your PC"* or *"Unknown publisher"*. This happens because the installer **does not have a paid digital signature** (a certificate bought from Microsoft or other companies). Since TraduWorld is **free**, spending money on that certificate makes no sense.
+- To continue the installation, click **"More info"** and then **"Run anyway"**.
+- During installation, Windows also asks for permission (**"Yes"**) to install the parts it needs: the VB-CABLE virtual audio cable, Python and Microsoft Visual C++.
+- If you want to check it yourself, upload the `Traduworld-Setup.exe` file to **[virustotal.com](https://www.virustotal.com)**, which scans it with dozens of antivirus programs at once.
 
 ### Privacy
 
@@ -226,9 +248,20 @@ Nació en las carreras de simulador (rFactor 2, iRacing, Assetto Corsa y otros),
 ### Cómo instalar
 
 1. Descarga **[Traduworld-Setup.exe](https://github.com/jialvarez1973/traduworld/releases/latest/download/Traduworld-Setup.exe)**.
-2. Abre el archivo y sigue las pantallas. La instalación tarda de 15 a 40 minutos, porque descarga los modelos de inteligencia artificial.
+2. Abre el archivo y sigue las pantallas (si Windows muestra un aviso, mira [¿Es seguro?](#es-seguro)). La instalación tarda de 15 a 40 minutos, porque descarga los modelos de inteligencia artificial.
 3. Antes de empezar, el instalador crea un **punto de restauración de Windows**, para poder dejar la computadora exactamente como estaba.
 4. Abre **TraduWorld** desde el Escritorio. El asistente te guía en el resto.
+
+<a id="es-seguro"></a>
+
+### ¿Es seguro? (aviso de Windows al instalar)
+
+- TraduWorld **no contiene virus** y **no roba contraseñas**. No lee tus contraseñas, no accede a tu navegador y no toca tus archivos personales.
+- Solo cambia lo que necesita para traducir: el sonido de la computadora y la configuración de sonido de TeamSpeak y Discord, siempre mostrando el antes y el después y solo con tu permiso.
+- **Al instalar, Windows puede mostrar un aviso** como *"Windows protegió su PC"* o *"Editor desconocido"*. Esto pasa porque el instalador **no tiene firma digital de pago** (un certificado comprado a Microsoft o a otras empresas). Como TraduWorld es **gratuito**, no tiene sentido gastar dinero en ese certificado.
+- Para seguir con la instalación, haz clic en **"Más información"** y después en **"Ejecutar de todas formas"**.
+- Durante la instalación, Windows también pide permiso (**"Sí"**) para instalar las piezas necesarias: el cable de audio virtual VB-CABLE, Python y Visual C++ de Microsoft.
+- Si quieres comprobarlo por tu cuenta, sube el archivo `Traduworld-Setup.exe` a **[virustotal.com](https://www.virustotal.com)**, que lo analiza con decenas de antivirus a la vez.
 
 ### Privacidad
 
