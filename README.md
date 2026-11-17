@@ -30,7 +30,7 @@ Ele nasceu nas corridas de simulador (rFactor 2, iRacing, Assetto Corsa e outros
 ### O que ele faz
 
 **🎧 Você ouve**
-- Os outros falam em qualquer idioma, e o TraduWorld **descobre sozinho qual é**.
+- Os outros falam em um dos **23 idiomas** do programa, e o TraduWorld **descobre sozinho qual é** pela voz de quem está falando (você não precisa escolher).
 - Você ouve a tradução no fone, no seu idioma, com voz de homem ou de mulher.
 - Legendas na tela, por cima do jogo, com tamanho, cor e posição à sua escolha.
 - Você pode continuar ouvindo as vozes originais junto com a tradução.
@@ -117,7 +117,7 @@ It was born in sim racing (rFactor 2, iRacing, Assetto Corsa and others), where 
 ### What it does
 
 **🎧 You listen**
-- Others speak in any language, and TraduWorld **detects which one by itself**.
+- Others speak in one of the program's **23 languages**, and TraduWorld **detects which one by itself** from the speaker's voice (you don't need to choose).
 - You hear the translation in your headset, in your language, with a male or female voice.
 - On-screen subtitles over the game, with the size, color and position you like.
 - You can keep hearing the original voices together with the translation.
@@ -204,7 +204,7 @@ Nació en las carreras de simulador (rFactor 2, iRacing, Assetto Corsa y otros),
 ### Qué hace
 
 **🎧 Tú escuchas**
-- Los demás hablan en cualquier idioma, y TraduWorld **descubre solo cuál es**.
+- Los demás hablan en uno de los **23 idiomas** del programa, y TraduWorld **descubre solo cuál es** por la voz de quien habla (no tienes que elegirlo).
 - Escuchas la traducción en el auricular, en tu idioma, con voz de hombre o de mujer.
 - Subtítulos en pantalla, encima del juego, con el tamaño, color y posición que prefieras.
 - Puedes seguir escuchando las voces originales junto con la traducción.
