@@ -31,7 +31,7 @@ Ele nasceu nas corridas de simulador (rFactor 2, iRacing, Assetto Corsa e outros
 
 **🎧 Você ouve**
 - Os outros falam em qualquer idioma, e o TraduWorld **descobre sozinho qual é**.
-- Você ouve a tradução no fone, no seu idioma, com a voz que escolher.
+- Você ouve a tradução no fone, no seu idioma, com voz de homem ou de mulher.
 - Legendas na tela, por cima do jogo, com tamanho, cor e posição à sua escolha.
 - Você pode continuar ouvindo as vozes originais junto com a tradução.
 
@@ -45,7 +45,6 @@ Ele nasceu nas corridas de simulador (rFactor 2, iRacing, Assetto Corsa e outros
 ### Destaques
 
 - **23 idiomas**, entre eles português, inglês, espanhol, francês, italiano, alemão, holandês, polonês, russo, japonês, chinês, coreano e árabe.
-- **Vozes variadas:** masculina, feminina, infantil, adolescente, de meia-idade e de idade avançada.
 - **Assistente de configuração** na primeira vez: microfone, fone, TeamSpeak ou Discord e o botão para falar.
 - **Ajusta o TeamSpeak e o Discord para você**, sempre mostrando o **antes e o depois**. Nada muda sem o seu clique, e tudo pode ser **desfeito**.
 - **Avisa quando algo pode atrapalhar o jogo**, como os atalhos do Windows que travam o teclado no meio da corrida, e oferece corrigir com um botão.
@@ -119,7 +118,7 @@ It was born in sim racing (rFactor 2, iRacing, Assetto Corsa and others), where 
 
 **🎧 You listen**
 - Others speak in any language, and TraduWorld **detects which one by itself**.
-- You hear the translation in your headset, in your language, with the voice you choose.
+- You hear the translation in your headset, in your language, with a male or female voice.
 - On-screen subtitles over the game, with the size, color and position you like.
 - You can keep hearing the original voices together with the translation.
 
@@ -133,7 +132,6 @@ It was born in sim racing (rFactor 2, iRacing, Assetto Corsa and others), where 
 ### Highlights
 
 - **23 languages**, including Portuguese, English, Spanish, French, Italian, German, Dutch, Polish, Russian, Japanese, Chinese, Korean and Arabic.
-- **Many voices:** male, female, child, teenager, middle-aged and elderly.
 - **Setup assistant** the first time: microphone, headset, TeamSpeak or Discord, and the push-to-talk button.
 - **Adjusts TeamSpeak and Discord for you**, always showing the **before and after**. Nothing changes without your click, and everything can be **undone**.
 - **Warns you when something may get in the way of the game**, such as the Windows shortcuts that freeze the keyboard in the middle of a race, and offers to fix it with one button.
@@ -207,7 +205,7 @@ Nació en las carreras de simulador (rFactor 2, iRacing, Assetto Corsa y otros),
 
 **🎧 Tú escuchas**
 - Los demás hablan en cualquier idioma, y TraduWorld **descubre solo cuál es**.
-- Escuchas la traducción en el auricular, en tu idioma, con la voz que elijas.
+- Escuchas la traducción en el auricular, en tu idioma, con voz de hombre o de mujer.
 - Subtítulos en pantalla, encima del juego, con el tamaño, color y posición que prefieras.
 - Puedes seguir escuchando las voces originales junto con la traducción.
 
@@ -221,7 +219,6 @@ Nació en las carreras de simulador (rFactor 2, iRacing, Assetto Corsa y otros),
 ### Destacados
 
 - **23 idiomas**, entre ellos portugués, inglés, español, francés, italiano, alemán, neerlandés, polaco, ruso, japonés, chino, coreano y árabe.
-- **Voces variadas:** masculina, femenina, infantil, adolescente, de mediana edad y de edad avanzada.
 - **Asistente de configuración** la primera vez: micrófono, auricular, TeamSpeak o Discord y el botón para hablar.
 - **Ajusta TeamSpeak y Discord por ti**, siempre mostrando el **antes y el después**. Nada cambia sin tu clic, y todo se puede **deshacer**.
 - **Avisa cuando algo puede estorbar en el juego**, como los atajos de Windows que bloquean el teclado en medio de la carrera, y ofrece corregirlo con un botón.
